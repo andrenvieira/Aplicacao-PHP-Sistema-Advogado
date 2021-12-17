@@ -1,4 +1,4 @@
-# Aplicação Web, escrito na linguagem PHP
+# Aplicação PHP para os Advs!
 
 Requisitos para o funcionamento do script:
 Não tem como garantir o funcionamento fora desses requisitos abaixo:
